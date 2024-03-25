@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module AssociationTest {
+	requires AssociationLib;
+}
